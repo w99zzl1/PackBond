@@ -1,6 +1,6 @@
 # 🐾 PackBond
 
-![Minecraft Version](https:// img.shields.io/badge/Minecraft-1.16.5-forge?style=for-the-badge&color=orange)
+![Minecraft Version](https://img.shields.io/badge/Minecraft-1.16.5-forge?style=for-the-badge&color=orange)
 ![Java Version](https://img.shields.io/badge/Java-8-blue?style=for-the-badge)
 ![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
