@@ -1,8 +1,8 @@
 # 🐾 PackBond
 
-![Minecraft Version](https://shields.io)
-![Java Version](https://shields.io)
-![License](https://shields.io)
+![Minecraft Version](https:// img.shields.io/badge/Minecraft-1.16.5-forge?style=for-the-badge&color=orange)
+![Java Version](https://img.shields.io/badge/Java-8-blue?style=for-the-badge)
+![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
 **PackBond** is a lightweight open-source tweak mod for **Minecraft 1.16.5 (Forge)** designed to overhaul tamed wolf AI, eliminate frustrating companion deaths, and enhance your control over the pack.
 
